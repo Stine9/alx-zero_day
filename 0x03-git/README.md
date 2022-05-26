@@ -1,2 +1,2 @@
-# alx-zero_day
+update readme # alx-zero_day
  I'm now a ALX student, this is my first repository as a full stack engineer
